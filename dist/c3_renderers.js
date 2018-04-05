@@ -319,6 +319,9 @@
       }),
       "Scatter Chart": makeC3Chart({
         type: "scatter"
+      }),
+      "Pie Chart": makeC3Chart({
+        type: "pie"
       })
     };
   });
